@@ -1,0 +1,155 @@
+.main-style{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.titulo-style {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.app-style {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 80%;
+}
+
+
+.datos-style {
+    width: 80%;
+    margin: auto;
+}
+
+.tabla-style {
+    width: 80%;
+    margin: auto;
+}
+
+.presupuesto-style {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #f0fcec;
+    border: 2px solid lightgreen;
+    border-radius: 10px;
+}
+
+.gasto-style {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #ffd4d4;
+    border: 2px solid lightcoral;
+    border-radius: 10px;
+}
+
+.btn-style {
+    margin-top: 10px;
+    width: 25%;
+    background-color: #f0fcec;
+    color: lightslategray;
+    border: 2px solid lightgreen;
+    border-radius: 5px;
+    padding: 5px;
+
+}
+
+.btn-style:hover{
+    background-color: lightseagreen;
+}
+
+.btn-style:active{
+    background-color: green;
+}
+
+.btn-style2 {
+    margin-top: 10px;
+    width: 25%;
+    background-color: #ffd4d4;
+    color: lightslategray;
+    border: 2px solid lightcoral;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.btn-style2:hover{
+    background-color: coral;
+}
+
+.btn-style2:active{
+    background-color: red;
+}
+
+.input-style {
+    background-color: #f0fcec;
+    border: 1px solid lightgray;
+    /* border: 1px solid rgb(140, 140, 140); */
+    border-radius: 5px;
+    height: 1.5625rem;
+}
+
+.input-style2 {
+    background-color: #ffd4d4;
+    border: 0.0625rem solid lightgray;
+    /* border: 1px solid rgb(140, 140, 140); */
+    border-radius: 0.3125rem;
+    height: 1.5625rem;
+    margin-bottom: 0.625rem;
+}
+
+
+.info-presupuesto-style {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+    margin-top: 0.625rem;
+    margin-bottom: 0.625rem;
+    padding: 0.625rem;
+    background-color: #ecfafc;
+    border: 0.125rem solid rgb(31, 132, 199);
+    border-radius: 0.625rem;
+}
+
+.info-style {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+
+.info2-style {
+    display: flex;
+    flex-direction: row;
+    gap: 6.25rem;
+    margin-left: 10%;
+    /* border-bottom: 1px solid black; */
+    padding-bottom:0%;
+    margin-bottom: 0%;
+}
+
+.info3-style{
+    display: flex;
+    flex-direction: row;
+    gap: 6.25rem;
+    margin-left: 10%;
+}
+
+.hr-style{
+    margin: 0;
+}
